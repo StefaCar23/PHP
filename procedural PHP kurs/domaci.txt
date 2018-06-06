@@ -1,0 +1,2 @@
+1. Iskometarisati sve kodove
+2. Naci jos tipskih funkcija koje rade sa stringovima
